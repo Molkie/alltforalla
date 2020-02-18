@@ -1,0 +1,7 @@
+C:\Users\melker.linde\Documents\Visual Studio 2017\Projects\BattlegroundNTI\BattlegroundNTI\bin\Debug\BattlegroundNTI.exe.config
+C:\Users\melker.linde\Documents\Visual Studio 2017\Projects\BattlegroundNTI\BattlegroundNTI\bin\Debug\BattlegroundNTI.exe
+C:\Users\melker.linde\Documents\Visual Studio 2017\Projects\BattlegroundNTI\BattlegroundNTI\bin\Debug\BattlegroundNTI.pdb
+C:\Users\melker.linde\Documents\Visual Studio 2017\Projects\BattlegroundNTI\BattlegroundNTI\obj\Debug\BattlegroundNTI.csprojAssemblyReference.cache
+C:\Users\melker.linde\Documents\Visual Studio 2017\Projects\BattlegroundNTI\BattlegroundNTI\obj\Debug\BattlegroundNTI.csproj.CoreCompileInputs.cache
+C:\Users\melker.linde\Documents\Visual Studio 2017\Projects\BattlegroundNTI\BattlegroundNTI\obj\Debug\BattlegroundNTI.exe
+C:\Users\melker.linde\Documents\Visual Studio 2017\Projects\BattlegroundNTI\BattlegroundNTI\obj\Debug\BattlegroundNTI.pdb
